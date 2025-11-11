@@ -24,3 +24,12 @@ cd build
 cmake ..
 cmake --build . --config Release
 ```
+
+
+### Installation
+
+```
+Download zip file from Releases
+Open build folder
+Launch SuurStof-Packer.exe
+```
