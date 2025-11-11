@@ -1,4 +1,7 @@
-﻿# Packer + Obfuscator
+<img width="601" height="532" alt="SuurStof-Packer-Image" src="https://github.com/user-attachments/assets/6a3b7835-b2be-404e-a8b0-7409921fd0d0" />
+
+ 
+ # Packer + Obfuscator
 
 A low-level executable packer written in C++
 ## Features
